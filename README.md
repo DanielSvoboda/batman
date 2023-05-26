@@ -39,7 +39,7 @@ E assim por diante.
 
 <details>
    <summary>Adicionar Texto ao Final</summary>
-Este é um script em lote do Windows que permite ao usuário adicionar um texto ao final do nome de arquivos com uma extensão específica. O script apresenta um menu com três opções: PDF, TXT e OUTRO. Se o usuário escolher PDF ou TXT, o script solicitará que o usuário digite o texto a ser adicionado ao final dos nomes dos arquivos com a extensão escolhida (PDF ou TXT). Se o usuário escolher OUTRO, o script solicitará que o usuário digite a extensão desejada e o texto a ser adicionado ao final dos nomes dos arquivos com essa extensão.
+Este é um script .bat que permite ao usuário adicionar um texto ao final do nome de arquivos com uma extensão específica. O script apresenta um menu com três opções: PDF, TXT e OUTRO. Se o usuário escolher PDF ou TXT, o script solicitará que o usuário digite o texto a ser adicionado ao final dos nomes dos arquivos com a extensão escolhida (PDF ou TXT). Se o usuário escolher OUTRO, o script solicitará que o usuário digite a extensão desejada e o texto a ser adicionado ao final dos nomes dos arquivos com essa extensão.
 
 O script então renomeia todos os arquivos com a extensão escolhida no diretório atual, adicionando o texto especificado pelo usuário ao final do nome de cada arquivo. Por fim, o script informa ao usuário quantos arquivos foram renomeados e solicita que o usuário pressione ENTER para sair.
 
