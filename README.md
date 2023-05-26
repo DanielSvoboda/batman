@@ -7,7 +7,8 @@ Este é um script .bat que permite remover um número de caracteres ao final dos
 [Download do script](https://github.com/DanielSvoboda/batman/raw/main/Remover_Caracteres_ao_Final.bat)
 ## Como usar
 
--  [Baixer o script](https://github.com/DanielSvoboda/batman/raw/main/Remover_Caracteres_ao_Final.bat) e salve-o na pasta onde estão os arquivos que você quer renomear.
+- Para baixar o script, [acesso o link](https://github.com/DanielSvoboda/batman/raw/main/Remover_Caracteres_ao_Final.bat) e depois click com botão direito e aperte em Salvar como.
+- Salve-o na pasta onde estão os arquivos que você quer renomear.
 - Execute o script e escolha uma opção: 1 para PDF, 2 para TXT ou 3 para outra extensão.
 - Digite o número de caracteres que você quer remover ao final dos nomes dos arquivos.
 - Aguarde a confirmação de que os arquivos foram renomeados.
